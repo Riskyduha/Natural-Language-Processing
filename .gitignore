@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# Training artifacts and model checkpoints
+finbert_results/
+best_finbert_model/model.safetensors
